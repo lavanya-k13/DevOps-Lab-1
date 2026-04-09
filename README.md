@@ -1,1 +1,8 @@
 # DevOps-Lab-1
+Lab Exp-1/
+├── templates/
+│   ├── register.html
+│   └── success.html
+├── app.py
+├── Dockerfile
+└── requirements.txt
